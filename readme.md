@@ -4,6 +4,10 @@
 
 ### Visual Studio 2015
  - Professional: `HMGNV-WCYXV-X7G9W-YCX63-B98R2`
+ - Enterprise: `HM6NR-QXX7C-DFW2Y-8B82K-WTYJV`
+ - Enterprise: `2XNFG-KFHR8-QV3CP-3W6HT-683CH`
+
+
 
 ### Visual Studio 2022 
  - Enterprise: `VHF9H-NXBBB-638P6-6JHCY-88JWH`
